@@ -2,7 +2,7 @@
 
 # Setup
 
-const slide === 'sections of carousel'
+const slide === 'section of carousel'
 
 Add img src and text of each slide in Image array at bottom of carousel.component.ts
 
